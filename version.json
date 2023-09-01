@@ -1,11 +1,10 @@
 {
     "enable": true,
 	"script": "sublime_playerCreator",
-    "version": "1.0",
+    "version": "1.0.1",
     "changelog": [
         "^8[Global]^2:",
-        "\t^3- ^3Add ^7Invincible during create player",
-        "\t^3- ^3Change ^7check version & repository"
+        "\t^3- ^3Fix ^7 Instance (bucket)"
     ],
 	"link": "https://github.com/SUBLiME-Association/sublime_playerCreator-fivem-esxLegacy"
 }
